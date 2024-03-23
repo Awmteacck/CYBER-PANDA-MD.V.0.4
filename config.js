@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+918787651195", "+918787651195"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+918787651195", "+918787651195"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+918787651195"];
+global.OwnerName = "Awmtea Polythene";
+global.BotName = "Mr.Bot";
+global.packname = "M.r Bot";                             //Do not change.
+global.author = "Mr.Bot";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -50,10 +50,10 @@ global.lolhuman = "Sachith";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("https://telegra.ph/file/c76167f3754f68319f250.jpg");
+global.Thumb = fs.readFileSync("https://telegra.ph/file/c76167f3754f68319f250.jpg");
+global.Thumb1 = fs.readFileSync("https://telegra.ph/file/c76167f3754f68319f250.jpg");
+global.ErrorPic = fs.readFileSync("https://telegra.ph/file/c76167f3754f68319f250.jpg");
 
 
 //
